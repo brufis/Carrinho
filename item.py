@@ -37,3 +37,5 @@ while i <= 2:
     item = [id_user, id_produto, price_product, quantity_product]
     add_item_cart(item)
     i += 1
+
+print(cart)
